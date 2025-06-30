@@ -24,7 +24,7 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 2. Copy the **plugin folder(s)** you want into your project’s  
    `YourProject/Plugins/` directory.  
 3. Regenerate project files (if you’re using Visual Studio/Rider) and open the project.  
-4. Enable the plugin(s) via **Edit → Plugins** and restart the editor if prompted.
+
 
 > *Tested in **Unreal Engine 5.5.4**. All plugins are **component‑based**, so you can easily bolt them onto existing code, and each ships with a small **demo map** that works in both single‑player and multiplayer.*
 

@@ -1,7 +1,7 @@
 # UE5 Multiplayer Racing Games – Plugin Collection
 
 These plugins were developed while making **[Verocity](https://store.steampowered.com/app/3572320/Verocity/)** in our graduate “Game Production” class.  
-They’re meant to let **artists and non‑programmers** drag‑and‑drop advanced multiplayer/single‑player features into any Unreal Engine project no prior coding experience.
+They’re meant to let **artists and non‑programmers** drag‑and‑drop advanced multiplayer/single‑player features into any Unreal Engine project with no prior coding experience.
 
 ---
 

@@ -29,6 +29,9 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 <pre><code>:::tip These plugins are **component-based**, making them easy to drop into existing systems. Just add the component to your actor and you're good to go! ::: </code></pre>
 
 
+:::tip These plugins are ...
+
+
 ---
 
 ## 🎥 Demo / How‑To Video  *(optional)*

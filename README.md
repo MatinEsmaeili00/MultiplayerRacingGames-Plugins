@@ -1,84 +1,37 @@
-\# Multiplayer Racing Games - Unreal Engine Plugin Collection
+# UE5 Multiplayer Racing Games – Plugin Collection
 
-
-
-This repository contains a collection of Unreal Engine 5 plugins designed to enhance multiplayer racing games.
-
-
-
-Each plugin is structured as a standalone module that can be dropped into any UE5 project's `Plugins/` directory.
-
-
+These plugins were developed while making **[Verocity](https://store.steampowered.com/app/3572320/Verocity/)** in our graduate “Game Production” class.  
+They’re meant to let **artists and non‑programmers** drag‑and‑drop advanced multiplayer/single‑player features into any Unreal Engine project with *zero* code.
 
 ---
 
+## 📁 Plugin Catalogue  
+*(click a name to jump to that plugin’s own README)*
 
+| Plugin | Purpose |
+|--------|---------|
+| [`GameMapSystem`](./GameMapSystem/) | Drop‑in minimap with zoom & player icons |
+| [`PlayerRankingSystem`](./PlayerRankingSystem/) | Real‑time race ranking & leaderboard |
 
-\## 📦 Included Plugins
-
-
-
-\### 🚗 UE5-GameMap-Plugin
-
-A fully customizable minimap system for multiplayer racing games, with support for player icons, zoom levels, and real-time position updates.
-
-
-
-\### 💡 UE5-AwesomeShader
-
-A collection of stylized post-processing effects for dynamic visuals — includes toon shading, color grading presets, and custom glow effects.
-
-
-
-<!-- Add more plugins here as needed -->
-
-
+Each plugin folder contains its **own detailed README**, screenshots, and usage notes.
 
 ---
 
+## 🔧 Installation
 
+1. **Download** or **clone** this repo.  
+2. Copy the **plugin folder(s)** you want into your project’s  
+   `YourProject/Plugins/` directory.  
+3. Regenerate project files (if you’re using Visual Studio/Rider) and open the project.  
+4. Enable the plugin(s) via **Edit → Plugins** and restart the editor if prompted.
 
-\## 🔧 Installation
-
-
-
-1\. Clone this repository or download the ZIP.
-
-2\. Copy the desired plugin(s) into your Unreal project's `Plugins/` folder.
-
-3\. Open your project — UE5 will automatically detect and compile the plugin(s).
-
-4\. Enable each plugin via `Edit → Plugins`.
-
-
+> *Tested in **Unreal Engine 5.5.4**. All plugins are **component‑based**, so you can easily bolt them onto existing code, and each ships with a small **demo map** that works in both single‑player and multiplayer.*
 
 ---
 
+## 🎥 Demo / How‑To Video  *(optional)*
 
+If you record a YouTube walkthrough, add a clickable thumbnail like this:
 
-\## 🛠 Requirements
-
-
-
-\- Unreal Engine 5.0+
-
-\- Windows (tested), other platforms untested
-
-
-
----
-
-
-
-\## 📜 License
-
-
-
-This project is provided as-is. Add a license here if you intend to make this public.
-
-
-
----
-
-
-
+```markdown
+[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/VIDEO_ID)

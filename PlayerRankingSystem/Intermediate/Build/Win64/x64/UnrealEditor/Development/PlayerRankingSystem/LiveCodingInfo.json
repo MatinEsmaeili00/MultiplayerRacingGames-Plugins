@@ -1,0 +1,20 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.PlayerRankingSystem.cpp.obj": [
+			"CPP_RankingDisplayComponent.gen.cpp.obj",
+			"CPP_RankingManagerComponent.gen.cpp.obj",
+			"CPP_RankingSplineActor.gen.cpp.obj",
+			"CPP_UW_ProgressWidget.gen.cpp.obj",
+			"CPP_UW_RankingWidget.gen.cpp.obj",
+			"PlayerRankingSystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CPP_RankingDisplayComponent.cpp.obj",
+			"CPP_RankingManagerComponent.cpp.obj",
+			"CPP_RankingSplineActor.cpp.obj",
+			"CPP_UW_ProgressWidget.cpp.obj",
+			"CPP_UW_RankingWidget.cpp.obj",
+			"PlayerRankingSystem.cpp.obj"
+		]
+	}
+}

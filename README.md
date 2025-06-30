@@ -26,10 +26,7 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 3. Regenerate project files (if you’re using Visual Studio/Rider) and open the project.  
 
 
-> 💡 **Note**  
-> These plugins were developed and tested in **Unreal Engine 5.5.4**.  
-> Each is **component-based**, allowing easy integration into larger systems.  
-> A small **demo map** is included with each plugin to demonstrate usage in both single-player and multiplayer scenarios.
+<pre><code>:::note These plugins were developed and tested in **Unreal Engine 5.5.4**. They are fully **component-based**, so you can easily integrate them into existing systems. Each plugin includes a small **demo map** for both single-player and multiplayer use. ::: </code></pre>
 
 
 ---

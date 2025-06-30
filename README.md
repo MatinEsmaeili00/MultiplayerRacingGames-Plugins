@@ -34,5 +34,3 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 
 
 
----
-

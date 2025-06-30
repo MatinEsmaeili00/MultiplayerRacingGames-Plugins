@@ -10,8 +10,9 @@ They’re meant to let **artists and non‑programmers** drag‑and‑drop advan
 
 | Plugin | Purpose |
 |--------|---------|
-| [`GameMapSystem`](./GameMapSystem/) | Drop‑in minimap with zoom & player icons |
-| [`PlayerRankingSystem`](./PlayerRankingSystem/) | Real‑time race ranking & leaderboard |
+| [`GameMapSystem`](./GameMapSystem/) | Drop-in minimap with player icons for multiplayer games |
+| [`PlayerRankingSystem`](./PlayerRankingSystem/) | Real-time race ranking and player progress tracker |
+
 
 Each plugin folder contains its **own detailed README**, screenshots, and usage notes.
 

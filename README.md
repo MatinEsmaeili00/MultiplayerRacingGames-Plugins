@@ -26,7 +26,7 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 3. Regenerate project files (if you’re using Visual Studio/Rider) and open the project.  
 
 
-<pre><code>:::note These plugins were developed and tested in **Unreal Engine 5.5.4**. They are fully **component-based**, so you can easily integrate them into existing systems. Each plugin includes a small **demo map** for both single-player and multiplayer use. ::: </code></pre>
+<pre><code>:::tip These plugins are **component-based**, making them easy to drop into existing systems. Just add the component to your actor and you're good to go! ::: </code></pre>
 
 
 ---

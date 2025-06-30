@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\matin\\unreal engine\\racinggames_plugins\\plugins\\gamemapsystem\\source\\gamemapsystem\\private\\gamemapsystem.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\matin\\unreal engine\\racinggames_plugins\\intermediate\\build\\win64\\x64\\racinggames_pluginseditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\matin\\unreal engine\\racinggames_plugins\\plugins\\gamemapsystem\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\gamemapsystem\\definitions.gamemapsystem.h",
+            "d:\\matin\\unreal engine\\racinggames_plugins\\plugins\\gamemapsystem\\source\\gamemapsystem\\public\\gamemapsystem.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

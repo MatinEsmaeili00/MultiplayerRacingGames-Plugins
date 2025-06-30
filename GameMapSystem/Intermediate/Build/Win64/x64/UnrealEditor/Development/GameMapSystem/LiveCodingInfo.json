@@ -1,0 +1,18 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.GameMapSystem.cpp.obj": [
+			"CPP_MapDisplayComponent.gen.cpp.obj",
+			"CPP_MapManagerComponent.gen.cpp.obj",
+			"CPP_MapVolumeBox.gen.cpp.obj",
+			"CPP_UW_Map.gen.cpp.obj",
+			"GameMapSystem.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"CPP_MapDisplayComponent.cpp.obj",
+			"CPP_MapManagerComponent.cpp.obj",
+			"CPP_MapVolumeBox.cpp.obj",
+			"CPP_UW_Map.cpp.obj",
+			"GameMapSystem.cpp.obj"
+		]
+	}
+}

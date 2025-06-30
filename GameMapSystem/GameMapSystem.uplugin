@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "GameMapSystem",
+	"Description": "A complete system for generating and displaying in-game maps/minimaps, capturing map textures, and synchronizing player positions in multiplayer environments. Built for performance and flexibility.",
+	"Category": "Other",
+	"CreatedBy": "Matin Esmaeili",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "GameMapSystem",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}

@@ -36,9 +36,3 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 
 ---
 
-## 🎥 Demo / How‑To Video  *(optional)*
-
-If you record a YouTube walkthrough, add a clickable thumbnail like this:
-
-```markdown
-[![Watch the demo](https://img.youtube.com/vi/VIDEO_ID/hqdefault.jpg)](https://youtu.be/VIDEO_ID)

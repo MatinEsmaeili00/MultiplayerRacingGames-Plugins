@@ -39,6 +39,7 @@ public class GameMapSystem : ModuleRules
 				"Slate",
 				"SlateCore",
 				"UMG",
+				"RenderCore" ,
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

@@ -28,9 +28,9 @@ Each plugin folder contains its **own detailed README**, screenshots, and usage 
 
 
 > [!Note]  
-> These plugins were developed and tested in **Unreal Engine 5.5.4**.  
-> They are fully **component-based**, making them easy to integrate into larger systems.  
-> Each plugin also includes a small **demo map** for both single-player and multiplayer usage.
+> - These plugins were developed and tested in **Unreal Engine 5.5.4**.  
+> - They are fully **component-based**, making them easy to integrate into larger systems.  
+> -  Each plugin also includes a small **demo map** for both single-player and multiplayer usage.
 
 
 

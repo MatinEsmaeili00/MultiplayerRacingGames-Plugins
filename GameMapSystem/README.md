@@ -6,7 +6,7 @@
 
 **This plugin adds a customizable in-game minimap system for multiplayer racing games in Unreal Engine 5. It supports player tracking, dynamic icons, and seamless integration with your game UI.**
 
-> [!NOTE]
+> [!]
 > Useful information that users should know, even when skimming content.
 
 > [!TIP] 

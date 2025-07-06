@@ -1,3 +1,4 @@
 # UE5 Game Map Plugin
 
-[![Watch the video](https://img.youtube.com/vi/v18hDMAq1Yw/hqdefault.jpg)](https://www.youtube.com/embed/v18hDMAq1Yw?autoplay=1&loop=1&playlist=v18hDMAq1Yw)
+### 🌀 Click the GIF to Watch the Full Demo Video
+[![Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/GameMapSystem/Docs/Demo.gif?raw=true)](https://youtu.be/v18hDMAq1Yw)

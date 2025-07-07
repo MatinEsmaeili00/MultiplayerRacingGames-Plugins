@@ -32,7 +32,7 @@ Customize your minimap directly in the UMG editor:
 
 <br>
 
-### 🎨 Editable & Expandable UI Widget – Icon Customization
+### 🧩 Icon Customization
 
 Customize your **player** and **enemy** icons with full flexibility:
 

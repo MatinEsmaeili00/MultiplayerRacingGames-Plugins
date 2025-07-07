@@ -53,7 +53,7 @@ Customize your **player** and **enemy** icons with full flexibility:
 >> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
 
-### 🧩 Overhead Image Capture (Map Basic Texture)
+### 📸 Overhead Image Capture (Map Basic Texture)
 
 The system includes a **capture tool** that automatically aligns scene captures to the area covered by the minimap’s 3D volume. It gives you a quick top-down texture — perfect when you're frequently changing or updating your map.
 
@@ -63,23 +63,6 @@ The system includes a **capture tool** that automatically aligns scene captures 
 > [!NOTE]
 > You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
 
-
-### 🗺️ Dynamic Mini-Map System
-Supports:
-
-- Real-time icon updates
-- Player and enemy markers
-- Smooth zoom and scale transitions
-
-<br>
-
-### 🧩 Plugin-Based Structure
-Simply add the plugin folder to your project — no deep integration needed. Drop-in components make setup easy and modular.
-
-<br>
-
-### 🧪 Demo Map Included
-Test your setup instantly with an included demo map supporting both single-player and multiplayer environments.
 
 ---
 

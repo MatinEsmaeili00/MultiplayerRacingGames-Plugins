@@ -88,6 +88,8 @@ void ACPP_MapVolumeBox::UpdateRenderTargetSizeFromBox()
 	UE_LOG(LogTemp, Warning, TEXT("✅ RenderTarget resized to: %d x %d"), TargetWidth, TargetHeight);
 }
 
+
+
 // void ACPP_MapVolumeBox::CaptureImageFromBox()
 // {
 // 	if (!RenderTarget2)

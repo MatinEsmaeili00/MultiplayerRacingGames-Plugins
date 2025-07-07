@@ -43,8 +43,6 @@ public:
 	class UCanvasPanel* IconsHolder;
 
 
-	UPROPERTY(EditAnywhere, BlueprintReadWrite)
-	UTexture2D* PlayerIconTexture;
 
 public:
 	// 🔔 Delegate the component will bind to
@@ -87,9 +85,6 @@ public:
 
 	UFUNCTION(CallInEditor, BlueprintCallable, Category = "MiniMap|Editor")
 	void UpdateMiniMapLayoutFromTexture();
-
-	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MiniMap|Layout")
-	float MiniMapScaleRatio = 0.3f;
 
 	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category = "MiniMap|Layout")
 	FVector2D MiniMapPosition = FVector2D(0.f, 0.f); // Default top-left

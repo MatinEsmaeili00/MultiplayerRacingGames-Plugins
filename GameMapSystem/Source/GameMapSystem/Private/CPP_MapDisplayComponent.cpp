@@ -27,7 +27,7 @@ void UCPP_MapDisplayComponent::BeginPlay()
 		SetupMiniMapTimerHandle,
 		this,
 		&UCPP_MapDisplayComponent::SetupMiniMap,
-		2.f,
+		0.01f,
 		false
 	);
 	
@@ -96,7 +96,7 @@ void UCPP_MapDisplayComponent::SetupMiniMap()
 					UpdateMiniMapTimerHandle,
 					this,
 					&UCPP_MapDisplayComponent::CallUpdateMiniMap,
-					0.2f,
+					GetIconUpdateMappedValue(),
 					true
 				);
 					

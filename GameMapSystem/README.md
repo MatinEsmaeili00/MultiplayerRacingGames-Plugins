@@ -1,8 +1,8 @@
-# 🗺️ UE5 Game Map Plugin
+# 🗺️ UE5 Game Map Plugin (Supports multiplayer or Single player)
 
 ---
 
-## 🌀 Description
+## 🌀 Description:
 
 [![Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/GameMapSystem/Docs/Demo.gif?raw=true)](https://youtu.be/v18hDMAq1Yw)
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🎮 Features
+## 🎮 Features:
 
 <br>
 
@@ -31,6 +31,22 @@ Customize your minimap directly in the UMG editor:
 >> - For **relocation**, select and drag any map-related component (you don't need to select any specific component)
 
 <br>
+
+### 🎨 Editable & Expandable UI Widget – Icon Customization
+
+Customize your **player** and **enemy** icons with full flexibility:
+
+- The system uses **separate user widgets** for player and enemy icons  
+  → This allows you to assign different **textures**, **colors**, or even animated elements using the full power of the **Widget Editor**
+
+- Icon **size is preserved**  
+  → The system automatically maintains the icon size you set in each widget, ensuring consistent appearance across the minimap
+
+> [!WARNING]
+> ⚠️ To ensure correct positioning on the map:
+> - Always **center the icon** within its **canvas panel** inside the widget editor
+> - This aligns the icon’s center with the actual 3D player location on the map
+
 
 ### 🗺️ Dynamic Mini-Map System
 Supports:

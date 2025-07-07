@@ -30,6 +30,7 @@
  - You can freely scale the map or choose to scale it by a slider.
 
 > In the free style resizing you need to select the image component and resize the image to your desire scale.
+
   - You can also move and relocate the map by drag and drop.
 
 > You can select any components to relocate the map.

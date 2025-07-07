@@ -15,7 +15,13 @@
 <br>
 
 ### 🧭 3D to 2D Auto-Mapping
-Seamlessly converts world positions into 2D UI coordinates — fully replicated and multiplayer-ready.
+
+The minimap automatically links player locations from the 3D world to positions in the 2D UI using a customizable **3D volume box** placed in your level.
+
+- You can also **capture an overhead image** of the area covered by this volume  
+  → Just press a Capture Map Snapshot button to generate a snapshot, which is then turned into a **texture**
+
+- That texture can be used as a **base map image** in your minimap widget
 
 <br>
 
@@ -24,10 +30,10 @@ Customize your minimap directly in the UMG editor:
 
 - Maintains the correct aspect ratio of the 3D map automatically
 - Scale the map freely or use the built-in dropdown slider
-- Move and relocate the map using **drag and drop**
+- Move and relocate the map bu **selecting and drag the map around**
 
 > [!WARNING]
->> -  For **free resizing**, select the image component and scale to your desired size
+>> - For **free resizing**, select the image component and scale to your desired size
 >> - For **relocation**, select and drag any map-related component (you don't need to select any specific component)
 
 <br>
@@ -44,7 +50,7 @@ Customize your **player** and **enemy** icons with full flexibility:
 
 > [!WARNING]
 >> To ensure correct positioning on the map:
->> - Always **center the icon** within its **canvas panel** inside the widget editor
+>> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
 
 

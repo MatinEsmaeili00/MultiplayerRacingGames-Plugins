@@ -25,10 +25,10 @@ Customize your minimap directly in the UMG editor:
 - Maintains the correct aspect ratio of the 3D map automatically
 - Scale the map freely or use the built-in dropdown slider
 - Move and relocate the map using **drag and drop**
+
 > [!NOTE]
->> Useful information that users should know, even when skimming content.
 >> For **free resizing**, select the image component and scale to your desired size
-    - > For **relocation**, select and drag any map-related component
+>> For **relocation**, select and drag any map-related component
 
 <br>
 

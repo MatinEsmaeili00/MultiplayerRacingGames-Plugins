@@ -27,12 +27,12 @@
 
   The system in the widget editor helps you to scale and edit the map while maintaning the needed ratio automatically.
   
-  - You can freely scale the map or choose to scale it by a slider.
+ > You can freely scale the map or choose to scale it by a slider.
 > [!Warning]
 > In the free style resizing you need to select the image component and resize the image to your desire scale.
   - You can also move  and relocate the map by drag and drop.
 > [!NOTE]
-> you need to select any specific component.
+> you don't need to select any specific component.
 
 
 <br>

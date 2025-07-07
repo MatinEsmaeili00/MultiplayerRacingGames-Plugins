@@ -9,10 +9,11 @@
 **A powerful and customizable in-game minimap plugin for Unreal Engine 5 racing games — built for both single-player and multiplayer. It features real-time player tracking, dynamic icons, seamless 3D-to-2D mapping, and easy UI integration.**
 
 ---
+<br>
 
 ## 🎮 Features:
 
-<br>
+
 
 ### 🧭 3D to 2D Auto-Mapping
 
@@ -53,7 +54,7 @@ Customize your **player** and **enemy** icons with full flexibility:
 >> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
 
-### 📸 Overhead Image Capture (Map Basic Texture)
+### 📸 Overhead Image Capture (Map Basic Texture):
 
 The system includes a **capture tool** that automatically aligns scene captures to the area covered by the minimap’s 3D volume. It gives you a quick top-down texture — perfect when you're frequently changing or updating your map.
 
@@ -64,11 +65,17 @@ The system includes a **capture tool** that automatically aligns scene captures 
 > You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
 
 
+### 🛠️ Optimization & System Update Rate Customization
+
+One of the reasons this system was designed to use a **static map texture** with a **player tracking system** (instead of a live render capture) is to keep it **lightweight and performance-friendly**.
+
+- You can **increase or decrease** how often the system updates  
+  → Useful for making it feel smoother or saving a bit of performance when needed
+
 ---
 
-> [!NOTE]  
+> [!TIP]  
 > Tested in **Unreal Engine 5.5.4**. All plugins are **component‑based**, so you can easily bolt them onto existing code, and each ships with a small **demo map** that works in both single‑player and multiplayer.
 
-> [!TIP]  
-> To get started fast, drag the demo actor into your scene and follow the setup guide included in the plugin folder!
+
 

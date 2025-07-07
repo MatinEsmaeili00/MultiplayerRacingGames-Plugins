@@ -53,6 +53,16 @@ Customize your **player** and **enemy** icons with full flexibility:
 >> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
 
+### 🧩 Overhead Image Capture (Map Basic Texture)
+
+The system includes a **capture tool** that automatically aligns scene captures to the area covered by the minimap’s 3D volume. It gives you a quick top-down texture — perfect when you're frequently changing or updating your map.
+
+- You can choose the **texture compression format** from a dropdown menu before capturing
+- You can either **use a custom path** to save the captured texture, or let the tool automatically save it in a default folder inside the plugin
+
+> [!NOTE]
+> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
+
 
 ### 🗺️ Dynamic Mini-Map System
 Supports:

@@ -1,59 +1,57 @@
-# UE5 Game Map Plugin
+# 🗺️ UE5 Game Map Plugin
 
 ---
 
-## 🌀Description: 
-
-
+## 🌀 Description
 
 [![Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/GameMapSystem/Docs/Demo.gif?raw=true)](https://youtu.be/v18hDMAq1Yw)
----
-**This plugin adds a customizable in-game minimap system for single and multiplayer racing games in Unreal Engine 5. It supports player tracking, dynamic icons for player and enemies, and seamless and easy integration with your game UI (3D to 2D automatic mapping).**
+
+**A powerful and customizable in-game minimap plugin for Unreal Engine 5 racing games — built for both single-player and multiplayer. It features real-time player tracking, dynamic icons, seamless 3D-to-2D mapping, and easy UI integration.**
 
 ---
 
 ## 🎮 Features
 
-- ### 3D to 2D Mapping:
+<br>
 
-  (Fully replicated system for competitive gameplay)
+### 🧭 3D to 2D Auto-Mapping
+Seamlessly converts world positions into 2D UI coordinates — fully replicated and multiplayer-ready.
 
 <br>
 
-- ### Editable and expandable UI widget:  
-<br>
+### 🎨 Editable & Expandable UI Widget
+Customize your minimap directly in the UMG editor:
 
-  When editing the Widget is really important to keep the map image in a specific ratio as the actual 3D map region.
-
-  The system in the widget editor helps you to scale and edit the map while maintaning the needed ratio automatically.
-  
- - You can freely scale the map or choose to scale it by a slider.
-
-   - > In the free style resizing you need to select the image component and resize the image to your desire scale.
-
-  - You can also move and relocate the map by drag and drop.
-
-    - > You can select any components to relocate the map.
-
+- Maintains the correct aspect ratio of the 3D map automatically
+- Scale the map freely or use the built-in dropdown slider
+- Move and relocate the map using **drag and drop**
+    - > For **free resizing**, select the image component and scale to your desired size
+    - > For **relocation**, select and drag any map-related component
 
 <br>
 
-- Mini-map system  
-  (Dynamic icons, supports scaling and zoom)
+### 🗺️ Dynamic Mini-Map System
+Supports:
+
+- Real-time icon updates
+- Player and enemy markers
+- Smooth zoom and scale transitions
 
 <br>
 
-- Plugin-based structure  
-  (Drop-in components, easily attachable to existing projects)
+### 🧩 Plugin-Based Structure
+Simply add the plugin folder to your project — no deep integration needed. Drop-in components make setup easy and modular.
 
 <br>
 
-- Demo map included  
-  (Works in both single-player and multiplayer)
+### 🧪 Demo Map Included
+Test your setup instantly with an included demo map supporting both single-player and multiplayer environments.
 
-> [!]
-> Useful information that users should know, even when skimming content.
+---
 
-> [!TIP] 
-> Helpful advice for doing things better or more easily.
+> [!NOTE]  
+> Tested in **Unreal Engine 5.5.4**. All plugins are **component‑based**, so you can easily bolt them onto existing code, and each ships with a small **demo map** that works in both single‑player and multiplayer.
+
+> [!TIP]  
+> To get started fast, drag the demo actor into your scene and follow the setup guide included in the plugin folder!
 

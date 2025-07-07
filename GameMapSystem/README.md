@@ -26,9 +26,9 @@ Customize your minimap directly in the UMG editor:
 - Scale the map freely or use the built-in dropdown slider
 - Move and relocate the map using **drag and drop**
 
-> [!NOTE]
+> [!WARNING]
 >> -  For **free resizing**, select the image component and scale to your desired size
->> - For **relocation**, select and drag any map-related component
+>> - For **relocation**, select and drag any map-related component (you don't need to select any specific component)
 
 <br>
 

@@ -21,12 +21,18 @@
 <br>
 
 - ### Editable and expandable UI widget:  
+<br>
 
+  When editing the Widget is really important to keep the map image in a specific ratio as the actual 3D map region.
 
-  When editing the Widget is really important to keep the map image in a specifit ratio as the actual 3D map region.
-- The system in the widget editor helps you to scale and edit the map while maintaning the needed ratio
-  - you can choose to scale the map via slider or freely scale it and it automatically keep the ratio
+  The system in the widget editor helps you to scale and edit the map while maintaning the needed ratio automatically.
   
+  - You can freely scale the map or choose to scale it by a slider.
+> [!Warning]
+> In the free style resizing you need to select the image component and resize the image to your desire scale.
+  - You can also move  and relocate the map by drag and drop.
+> [!NOTE]
+> you need to select any specific component.
 
 
 <br>

@@ -62,7 +62,7 @@ The system includes a **capture tool** that automatically aligns scene captures 
 - You can either **use a custom path** to save the captured texture, or let the tool automatically save it in a default folder inside the plugin
 
 > [!NOTE]
-> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
+>> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
 
 
 ### 🛠️ Optimization & System Update Rate Customization

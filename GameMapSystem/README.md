@@ -40,12 +40,12 @@ Customize your **player** and **enemy** icons with full flexibility:
   → This allows you to assign different **textures**, **colors**, or even animated elements using the full power of the **Widget Editor**
 
 - Icon **size is preserved**  
-  → The system automatically maintains the icon size you set in each widget, ensuring consistent appearance across the minimap
+  → The system automatically maintains the icon size you set in each widget.
 
 > [!WARNING]
-> ⚠️ To ensure correct positioning on the map:
-> - Always **center the icon** within its **canvas panel** inside the widget editor
-> - This aligns the icon’s center with the actual 3D player location on the map
+>> To ensure correct positioning on the map:
+>> - Always **center the icon** within its **canvas panel** inside the widget editor
+>> - This aligns the icon’s center with the actual 3D player location on the map
 
 
 ### 🗺️ Dynamic Mini-Map System

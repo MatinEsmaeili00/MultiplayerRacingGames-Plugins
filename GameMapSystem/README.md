@@ -30,7 +30,11 @@ The minimap automatically links player locations from the 3D world to positions 
   → Just press a Capture Map Snapshot button to generate a snapshot, which is then turned into a **texture**
 
 - That texture can be used as a **base map image** in your minimap widget
+
+
 ---
+
+
 <br>
 
 

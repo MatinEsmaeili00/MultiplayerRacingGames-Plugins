@@ -32,7 +32,7 @@ The minimap automatically links player locations from the 3D world to positions 
 - That texture can be used as a **base map image** in your minimap widget
 
 
----
+
 
 
 <br>

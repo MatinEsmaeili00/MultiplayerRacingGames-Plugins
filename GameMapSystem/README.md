@@ -30,7 +30,7 @@ The minimap automatically links player locations from the 3D world to positions 
   → Just press a Capture Map Snapshot button to generate a snapshot, which is then turned into a **texture**
 
 - That texture can be used as a **base map image** in your minimap widget
-
+---
 <br>
 
 
@@ -47,7 +47,7 @@ The system includes a **capture tool** that automatically aligns scene captures 
 
 > [!NOTE]
 >> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
-
+---
 <br>
 
 
@@ -67,7 +67,7 @@ Customize your minimap directly in the UMG editor:
 > [!WARNING]
 >> - For **free resizing**, select the image component and scale to your desired size
 >> - For **relocation**, select and drag any map-related component (you don't need to select any specific component)
-
+---
 <br>
 
 ### 🧩 Icon Customization
@@ -88,7 +88,7 @@ Customize your **player** and **enemy** icons with full flexibility:
 >> To ensure correct positioning on the map:
 >> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
-
+---
 <br>
 
 ### 🛠️ Optimization & System Update Rate Customization

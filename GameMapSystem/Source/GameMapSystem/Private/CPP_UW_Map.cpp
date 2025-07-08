@@ -215,6 +215,7 @@ void UCPP_UW_Map::UpdateMiniMap()
 	FVector BoxExtent = VolumeRef->MapBounds->GetScaledBoxExtent();
 	FVector2D CanvasSize = IconsHolder->GetCachedGeometry().GetLocalSize();
 
+	
 	for (const FPlayerMiniMapData& PlayerData : DataComponentRef->PlayerLocations)
 	{
 		if (!PlayerIconWidgetClass || !EnemyIconWidgetClass) continue;
@@ -230,7 +231,48 @@ void UCPP_UW_Map::UpdateMiniMap()
 		// Step 3: Convert to [0, 1]
 		Normalized = (Normalized + FVector2D(1.f, 1.f)) * 0.5f;
 
+#pragma region "Debugging the map system visually"
 
+	 // 	FVector Origin = VolumeRef->GetOrigin();
+		// FVector Extent = VolumeRef->GetExtent();
+		//
+		// 	// Draw the box boundaries in RED
+		// 	DrawDebugBox(
+		// 		GetWorld(),
+		// 		Origin,          // Center
+		// 		Extent,          // Half-size
+		// 		FColor::Red,     // Color
+		// 		false,           // Persistent? false = disappears after a few seconds
+		// 		0.2f,            // Lifetime (how long to stay on screen)
+		// 		0,               // Depth Priority
+		// 		10.f             // Thickness
+		// 	);
+		// 	
+		// 	// Draw the player location as a BLUE POINT
+		// 	DrawDebugPoint(
+		// 		GetWorld(),
+		// 		PlayerData.WorldLocation,
+		// 		20.f,              // Size of the point
+		// 		FColor::Blue,      // Color
+		// 		false,             // Persistent?
+		// 		0.2f               // Lifetime
+		// 	);
+		// 	
+		// 	// Line from center of volume to player
+		// 	DrawDebugLine(
+		// 		GetWorld(),
+		// 		Origin,
+		// 		PlayerData.WorldLocation,
+		// 		FColor::Green,
+		// 		false,
+		// 		0.2f,
+		// 		0,
+		// 		5.f
+		// 	);
+		// 	
+			
+	#pragma endregion
+	
 
 		// Just in case for expanding the code in the future
 		

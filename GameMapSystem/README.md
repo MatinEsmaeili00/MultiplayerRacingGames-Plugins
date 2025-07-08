@@ -20,7 +20,7 @@
 
 ### 🧭 3D to 2D Auto-Mapping
 
-[![3Dto2D](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/3Dto2D.gif?raw=true)](https://youtu.be/ypkKo_4y0no)
+[![3Dto2D](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/3Dto2D.gif?raw=true)](https://youtu.be/ypkKo_4y0no)
 
 [▶️ Watch on YouTube](https://youtu.be/ypkKo_4y0no)
 
@@ -36,7 +36,7 @@ The minimap automatically links player locations from the 3D world to positions 
 
 ### 📸 Overhead Image Capture (Map Basic Texture):
 
-[![Overhead Image Capture](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/OverheadImgCapture.gif?raw=true)](https://youtu.be/9EfhXmGWDPo)
+[![Overhead Image Capture](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/OverheadImgCapture.gif?raw=true)](https://youtu.be/9EfhXmGWDPo)
 
 [▶️ Watch on YouTube](https://youtu.be/9EfhXmGWDPo)
 
@@ -53,7 +53,7 @@ The system includes a **capture tool** that automatically aligns scene captures 
 
 ### 🎨 Editable & Expandable UI Widget
 
-[![Editable UI Widget](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/EditableUIWidget.gif?raw=true)](https://youtu.be/lsbPyZzvVH8)
+[![Editable UI Widget](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/EditableUIWidget.gif?raw=true)](https://youtu.be/lsbPyZzvVH8)
 
 [▶️ Watch on YouTube](https://youtu.be/lsbPyZzvVH8)
 
@@ -72,7 +72,7 @@ Customize your minimap directly in the UMG editor:
 
 ### 🧩 Icon Customization
 
-[![Icon Customization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/IconCustomization.gif?raw=true)](https://youtu.be/83GG9GaCmN0)
+[![Icon Customization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/IconCustomization.gif?raw=true)](https://youtu.be/83GG9GaCmN0)
 
 [▶️ Watch on YouTube](https://youtu.be/83GG9GaCmN0)
 
@@ -93,7 +93,7 @@ Customize your **player** and **enemy** icons with full flexibility:
 
 ### 🛠️ Optimization & System Update Rate Customization
 
-[![Optimization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/Optimization.gif?raw=true)](https://youtu.be/07-XGcE6n-k)
+[![Optimization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/Optimization.gif?raw=true)](https://youtu.be/07-XGcE6n-k)
 
 [▶️ Watch on YouTube](https://youtu.be/07-XGcE6n-k)
 

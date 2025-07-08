@@ -4,7 +4,8 @@
 
 ## 🌀 Description:
 
-[![Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/GameMapSystem/Docs/Demo.gif?raw=true)](https://youtu.be/v18hDMAq1Yw)
+[![Game Map System Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/Game%20Map%20System%20-%20Demo.gif?raw=true)](https://youtu.be/DU8-FpL0MKw)
+[▶️ Watch the full video on YouTube](https://youtu.be/DU8-FpL0MKw)
 
 **A powerful and customizable in-game minimap plugin for Unreal Engine 5 racing games — built for both single-player and multiplayer. It features real-time player tracking, dynamic icons, seamless 3D-to-2D mapping, and easy UI integration.**
 
@@ -17,6 +18,10 @@
 
 ### 🧭 3D to 2D Auto-Mapping
 
+[![3Dto2D](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/3Dto2D.gif?raw=true)](https://youtu.be/ypkKo_4y0no)
+
+[▶️ Watch on YouTube](https://youtu.be/ypkKo_4y0no)
+
 The minimap automatically links player locations from the 3D world to positions in the 2D UI using a customizable **3D volume box** placed in your level.
 
 - You can also **capture an overhead image** of the area covered by this volume  
@@ -26,7 +31,31 @@ The minimap automatically links player locations from the 3D world to positions 
 
 <br>
 
+
+### 📸 Overhead Image Capture (Map Basic Texture):
+
+[![Overhead Image Capture](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/OverheadImgCapture.gif?raw=true)](https://youtu.be/9EfhXmGWDPo)
+
+[▶️ Watch on YouTube](https://youtu.be/9EfhXmGWDPo)
+
+The system includes a **capture tool** that automatically aligns scene captures to the area covered by the minimap’s 3D volume. It gives you a quick top-down texture — perfect when you're frequently changing or updating your map.
+
+- You can choose the **texture compression format** from a dropdown menu before capturing
+- You can either **use a custom path** to save the captured texture, or let the tool automatically save it in a default folder inside the plugin
+
+> [!NOTE]
+>> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
+
+<br>
+
+
 ### 🎨 Editable & Expandable UI Widget
+
+[![Editable UI Widget](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/EditableUIWidget.gif?raw=true)](https://youtu.be/lsbPyZzvVH8)
+
+[▶️ Watch on YouTube](https://youtu.be/lsbPyZzvVH8)
+
+
 Customize your minimap directly in the UMG editor:
 
 - Maintains the correct aspect ratio of the 3D map automatically
@@ -41,6 +70,10 @@ Customize your minimap directly in the UMG editor:
 
 ### 🧩 Icon Customization
 
+[![Icon Customization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/IconCustomization.gif?raw=true)](https://youtu.be/83GG9GaCmN0)
+
+[▶️ Watch on YouTube](https://youtu.be/83GG9GaCmN0)
+
 Customize your **player** and **enemy** icons with full flexibility:
 
 - The system uses **separate user widgets** for player and enemy icons  
@@ -54,18 +87,13 @@ Customize your **player** and **enemy** icons with full flexibility:
 >> - It is better to **center the icon** within its **canvas panel top left corner** inside the widget editor
 >> - This aligns the icon’s center with the actual 3D player location on the map
 
-### 📸 Overhead Image Capture (Map Basic Texture):
-
-The system includes a **capture tool** that automatically aligns scene captures to the area covered by the minimap’s 3D volume. It gives you a quick top-down texture — perfect when you're frequently changing or updating your map.
-
-- You can choose the **texture compression format** from a dropdown menu before capturing
-- You can either **use a custom path** to save the captured texture, or let the tool automatically save it in a default folder inside the plugin
-
-> [!NOTE]
->> You can always change the texture’s compression settings later in Unreal’s **Texture Editor** — the tool just gives you **quick access** upfront
-
+<br>
 
 ### 🛠️ Optimization & System Update Rate Customization
+
+[![Optimization](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/Optimization.gif?raw=true)](https://youtu.be/07-XGcE6n-k)
+
+[▶️ Watch on YouTube](https://youtu.be/07-XGcE6n-k)
 
 One of the reasons this system was designed to use a **static map texture** with a **player tracking system** (instead of a live render capture) is to keep it **lightweight and performance-friendly**.
 

@@ -4,7 +4,7 @@
 
 ## 🌀 Description:
 
-[![Game Map System Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Plugins/Docs/GameMapSystem/Game%20Map%20System%20-%20Demo.gif?raw=true)](https://youtu.be/DU8-FpL0MKw)
+[![Game Map System Demo](https://github.com/MatinEsmaeili00/UE5-MultiplayerRacingGames-Plugins/blob/main/Docs/GameMapSystem/Game%20Map%20System%20-%20Demo.gif?raw=true)](https://youtu.be/DU8-FpL0MKw)
 [▶️ Watch the full video on YouTube](https://youtu.be/DU8-FpL0MKw)
 
 **A powerful and customizable in-game minimap plugin for Unreal Engine 5 racing games — built for both single-player and multiplayer. It features real-time player tracking, dynamic icons, seamless 3D-to-2D mapping, and easy UI integration.**
